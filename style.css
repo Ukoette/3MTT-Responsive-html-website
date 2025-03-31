@@ -97,6 +97,12 @@ header nav ul li a {
    width: 600px;
    flex-direction: row;
  }
+.right-reserved {
+   text-align: center;
+   text-shadow: #cf1515;
+   margin: 110px;
+   font-size: 20;
+ }
  }
 
 
